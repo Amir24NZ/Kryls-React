@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "KRYLS Protocol — Automated Non‑Custodial Escrow",
+      "hasCanvas": false,
+      "bodyTextLen": 7678,
+      "bodyTextHash": "32e2e33ad5a14236129be5f85328dffbc1f1a4bd6acac54d0fffeb83ad0b85ee",
+      "bodyTextPrefix": "Skip to content KRYLS Coming Soon How it works Escrow Architectu",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "KRYLS Protocol — Automated Non‑Custodial Escrow",
+      "hasCanvas": false,
+      "bodyTextLen": 7624,
+      "bodyTextHash": "921dd8275f9e969c87a16034d7ff829aebac32ab6963e5abae238676c9040b26",
+      "bodyTextPrefix": "Skip to content KRYLS Coming Soon Launch in progress KRYLS Proto",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
